@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', [TaskController::class, 'stage1']);
+Route::get('/', [TaskController::class, 'stage1']);
 
 
 
